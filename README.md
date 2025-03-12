@@ -74,8 +74,7 @@ precalculated output instead of performing the exercise correctly.
 * Have a question? Ask your neighbor on the right. If that fails, try your neighbor
 on the left.
 * Your reference materials: peers / Internet / Google.
-* Read the examples carefully. They may require things that are not otherwise spec-
-ified in the subject.
+* Read the examples carefully. They may require things that are not otherwise specified in the subject.
 * And may the Force be with you!
 
 ## Chapter III
