@@ -62,13 +62,14 @@ As noted in the TV series Mr. Robot, “it’s an exciting time in the world rig
 about how to prepare your solution.
 * Here and further on we use Python 3 as the only correct version of Python.
 * The python files for python exercises (module01, module02, module03) must have
-the following block at the end: if __name__ == ‘__main__’.
+the following block at the end: `if __name__ == ‘__main__’`.
 * Pay attention to the permissions of your files and directories.
 * To be assessed your solution must be in your GIT repository.
 * Your solutions will be evaluated by your piscine peers.
 * You should not leave any other files in your directory other than those explicitly
 specified in the exercise instructions. It is recommended that you modify
 your .gitignore to avoid any accidents.
+* Your solution must be in your GIT repository for evaluation. Always push only to the develop branch! The master branch will be ignored. Work in the src directory.
 * When you need to get precise output in your programs, it is forbidden to display a
 precalculated output instead of performing the exercise correctly.
 * Have a question? Ask your neighbor on the right. If that fails, try your neighbor
