@@ -4,7 +4,11 @@ Summary: On the first day, we will help you to acquire the skills of using UNIX
 command-line tools for basic data science tasks. You will learn how to use curl, sort,
 uniq, jq, sed, and cat for data collection and preprocessing.
 
-💡 [Нажми сюда](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624), **чтобы поделиться с нами обратной связью на этот проект**. Это анонимно и поможет нашей команде сделать обучение лучше. Рекомендуем заполнить опрос сразу после выполнения проекта.
+---
+
+>💡 If this is your very first project, fill out this [form](http://opros.so/kAnXy).
+
+>💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) to leave your feedback on the project. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
 
 ## Contents
 
