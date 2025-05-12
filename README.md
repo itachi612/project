@@ -115,7 +115,7 @@ different line. See the example below:
 
 Your script must be executable. The interpreter to use is /bin/sh.
 
-Put your script as well as your result of parsing in the folder ex00 in the root directory
+Put your script as well as your result of parsing in the folder ex00 in the src directory
 of your repository.
 
 ## Chapter IV
@@ -151,7 +151,7 @@ The CSV file must have headers in the first row.
 Your script must be executable. The interpreter to use is /bin/sh.
 
 Put your filter file - the file that converts JSON to CSV, as well as the result of your
-conversion in the ex01 folder in the root directory of your repository.
+conversion in the ex01 folder in the src directory of your repository.
 
 ## Chapter V
 
@@ -180,7 +180,7 @@ The CSV file must still have headers in its first row.
 
 Your script must be executable. The interpreter to use is /bin/sh.
 
-Put your shell script as well as your result of the sorting in the folder ex02 in the root
+Put your shell script as well as your result of the sorting in the folder ex02 in the src
 directory of your repository.
 
 ## Chapter VI
@@ -225,7 +225,7 @@ exercise.
 
 Your script must be executable. The interpreter to use is /bin/sh.
 
-Put your shell script as well as your result from cleaning in the ex03 folder in the root
+Put your shell script as well as your result from cleaning in the ex03 folder in the src
 directory of your repository.
 
 ## Chapter VII
@@ -263,7 +263,7 @@ See the example below:
 The CSV file must have headers in the first row as in the example.
 
 Your script must be executable. The interpreter to use is /bin/sh.
-Put your shell script as well as the result of counting in the ex04 folder in the root
+Put your shell script as well as the result of counting in the ex04 folder in the src
 directory of your repository.
 
 ## Chapter VIII
@@ -305,4 +305,4 @@ the result of concatenator.sh must be equal to the result of Exercise 3
 
 Your scripts must be executable. The interpreter to use is /bin/sh.
 
-Put your shell scripts in the ex05 folder in the root directory of your repository.
+Put your shell scripts in the ex05 folder in the src directory of your repository.
