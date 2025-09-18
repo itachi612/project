@@ -77,9 +77,7 @@ Write a shell script that:
 - downloads information about the first 20 vacancies that correspond to the search parameters;
 - stores it in a file named `hh.json`.
 
-The result in the file must be formatted so that each field is on a different line. See the example below:
-
-![0](misc/images/0.png)
+The result in the file must be formatted so that each field is on a different line. See the example in the [ex00_sample.json](code-samples/ex00_sample.json) file.
 
 Your script must be executable. The interpreter to use is `/bin/sh`.
 
