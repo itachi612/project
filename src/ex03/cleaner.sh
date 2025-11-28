@@ -26,11 +26,7 @@ BEGIN{
         result = "-";
     }
     
-
-    $3 = "\"" result "\"";
-    for(i = 4; i < NF-1; i++) {
-        $i = "";
-    }
-    print $0;
+    # Пересобираем строку вместо очистки полей
+    print $1 "," $2 ",\"" result "\"," $(NF-1) "," $NF;
 }
 ' "$file" > hh_positions.csv
