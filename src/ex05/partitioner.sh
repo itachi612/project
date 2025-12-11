@@ -12,7 +12,7 @@ NR == 1 {
 }
 
 {
-    gsub(/"/, "", $2) 
+
     split($2, array, "T")
     date = array[1]
     filename = date ".csv"
