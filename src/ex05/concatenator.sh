@@ -2,7 +2,7 @@
 
 
 
-files=$(find . -name "****-**-**" | sort)
+files=$(find . -name "????-??-??.csv" | sort)
 first_file=1
 
 for file in $files; do
