@@ -2,7 +2,7 @@
 
 
 
-files=$(find . -name "????-??-??.csv" | sort)
+files=$(find . -name "****-**-**.csv" | sort)
 first_file=1
 
 for file in $files; do
@@ -13,7 +13,6 @@ for file in $files; do
         tail -n +2 "$file"
     fi
 done > result.csv
-
 
 
 
